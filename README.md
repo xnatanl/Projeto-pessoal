@@ -1,4 +1,5 @@
-Ideia Final do Projeto
+Projeto Task
+
 O projeto é um Sistema de Gerenciamento de Tarefas que permite ao usuário organizar e controlar suas atividades diárias. 
 O sistema é baseado em um menu de linha de comando e suporta três funcionalidades principais:
 
