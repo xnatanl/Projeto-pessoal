@@ -5,7 +5,7 @@ O sistema é baseado em um menu de linha de comando e suporta três funcionalida
 
 *- Adicionar Tarefas:*
 
-O usuário pode criar uma nova tarefa fornecendo uma descrição(O que precisa ser feito) e definindo uma prioridade (por exemplo, alta, média ou baixa).
+O usuário pode criar uma nova tarefa fornecendo uma descrição (o que precisa ser feito) e definindo uma prioridade (por exemplo, alta, média ou baixa).
 As tarefas são armazenadas em uma lista e inicialmente são marcadas como PENDENTES.
 
 *- Listar Tarefas:*
