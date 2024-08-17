@@ -16,5 +16,5 @@ Para cada tarefa, é mostrado:
 
 *- Concluir Tarefas:*
 
-O usuário pode marcar uma tarefa específica como concluída.
-A tarefa permanece na lista, mas seu status muda para concluída, facilitando a visualização do progresso.
+O usuário pode marcar uma tarefa específica como CONCLUIDO.
+A tarefa permanece na lista, mas seu status muda para CONCLUIDO, facilitando a visualização do progresso.
